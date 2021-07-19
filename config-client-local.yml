@@ -1,5 +1,5 @@
 app:
-  name: "Spring Cloud Config Client"
+  name: "spring-cloud-config-client.local"
   website: "http://piinalpin.com"
 config:
   profile: "local"
