@@ -1,0 +1,7 @@
+app:
+  name: "Spring Cloud Config Client"
+  website: "http://piinalpin.com"
+config:
+  profile: "development"
+server:
+  port: 67881
