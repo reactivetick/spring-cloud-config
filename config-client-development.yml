@@ -4,4 +4,4 @@ app:
 config:
   profile: "development"
 server:
-  port: 80801
+  port: 7001

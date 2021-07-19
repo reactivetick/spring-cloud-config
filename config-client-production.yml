@@ -4,4 +4,4 @@ app:
 config:
   profile: "production"
 server:
-  port: 90902
+  port: 9001
