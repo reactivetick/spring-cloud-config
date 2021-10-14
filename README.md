@@ -14,6 +14,7 @@ This configuration store is ideally versioned under Git version control and can 
 
 In this write-up, we'll focus on an example of how to setup a Git-backed config server, use it in a simple REST application server and setup a secure environment including encrypted property values.
 
+
 ### Project Setup and Dependencies
 
 I'm depending [Spring Initializr](https://start.spring.io/) for this as it is much easier. And we have to create two spring boot projects and started with maven project.
