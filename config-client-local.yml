@@ -5,3 +5,4 @@ config:
   profile: "local"
 server:
   port: 8082
+message: "Hello from Spring Config Server"  
